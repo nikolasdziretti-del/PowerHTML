@@ -3,7 +3,7 @@
 **An HTML presentation editor that builds HTML presentations with working HTML interactives.**
 One file. Fully offline. No install, no account.
 
-🔗 **Live demo:** `https://YOUR-USERNAME.github.io/YOUR-REPO/` — *replace after enabling GitHub Pages*
+🔗 **Live demo:** https://nikolasdziretti-del.github.io/PowerHTML/
 
 ---
 
