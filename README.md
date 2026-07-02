@@ -21,7 +21,7 @@ PowerHTML is a presentation editor that is itself a single `.html` file. Open it
 
 ## How to use
 
-1. Open `PowerHTML_EN.html` in any modern browser (Chrome, Edge, or Firefox).
+1. Open `PowerHTML_EN_v1.0E.html` in any modern browser (Chrome, Edge, or Firefox).
 2. Build your slides — add text, media, questions, simulations.
 3. Click **Save**. You get a standalone show file you can share or open anywhere, online or offline.
 
